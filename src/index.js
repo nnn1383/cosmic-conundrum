@@ -7,9 +7,9 @@ function Page() {
     return (
         <div className="homepage">
             <main>
-                <h1 className="adventure-title">Cosmics Conundrum</h1>
+                <h1 className="adventure-title">Cosmic Conundrum</h1>
             </main>
-            <img src="src/images/spaceshipgif.gif"></img>
+            <img src="/Users/nnn1383/Desktop/Cosmic Conundrum/cosmic-conundrum/src/images/spaceshipgif.gif"></img>
             <Question />
         </div>
     )
