@@ -1,4 +1,9 @@
 {
+  "homepage": "https://github.com/nnn1383/cosmic-conundrum.git",
+  "scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+  },
   "name": "cosmic-conundrum",
   "version": "0.1.0",
   "private": true,
@@ -35,5 +40,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
