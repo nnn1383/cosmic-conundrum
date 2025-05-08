@@ -1,9 +1,9 @@
 {
-  "homepage": "https://github.com/nnn1383/cosmic-conundrum.git",
+  "homepage": "https://github.com/nnn1383/cosmic-conundrum",
   "scripts": {
+  "start": "react-scripts start",
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build",
-  "start": "react-scripts start",
   "build": "react-scripts build",
   "test": "react-scripts test",
   "eject": "react-scripts eject"
