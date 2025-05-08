@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nnn1383/cosmic-conundrum/static/css/main.0760fda9.css",
+    "main.js": "/nnn1383/cosmic-conundrum/static/js/main.6098175f.js",
+    "index.html": "/nnn1383/cosmic-conundrum/index.html",
+    "main.0760fda9.css.map": "/nnn1383/cosmic-conundrum/static/css/main.0760fda9.css.map",
+    "main.6098175f.js.map": "/nnn1383/cosmic-conundrum/static/js/main.6098175f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0760fda9.css",
+    "static/js/main.6098175f.js"
+  ]
+}
