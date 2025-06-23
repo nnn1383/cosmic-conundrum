@@ -5,7 +5,7 @@ import './styles.css';
 function Question() {
     return (
         <>
-            <input type="button" value="Start Adventure" className="start-button"></input>
+            <input type="button" value="Start Your Adventure" className="start-button"></input>
         </>
     )
 }
